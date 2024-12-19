@@ -1,0 +1,55 @@
+Status da solução: Optimal
+Solução Ótima:
+Node 1: house
+Node 2: house
+Node 3: house
+Node 4: house
+Node 5: factory
+Node 6: factory
+Node 7: house
+Node 8: house
+Node 9: house
+Node 10: park
+Node 11: park
+Node 12: house
+Node 13: park
+Node 14: house
+Node 15: house
+Node 16: factory
+Node 17: park
+Node 18: factory
+Node 19: house
+Node 20: park
+Node 21: house
+Node 22: house
+Node 23: factory
+Node 24: factory
+Node 25: house
+Node 26: factory
+Node 27: house
+Node 28: factory
+Node 29: house
+Node 30: factory
+Node 31: house
+Node 32: house
+Node 33: house
+Node 34: park
+Node 35: house
+Node 36: house
+Node 37: factory
+Node 38: park
+Node 39: factory
+Node 40: house
+Node 41: factory
+Node 42: house
+Node 43: factory
+Node 44: house
+Node 45: factory
+Node 46: factory
+Node 47: park
+Node 48: house
+Node 49: factory
+Node 50: house
+Métricas da Solução Ótima:
+Profit: 45.0
+Happiness: 1.0
